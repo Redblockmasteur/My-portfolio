@@ -14,4 +14,4 @@ The AdiClock uses the Network Time Protocol to synchronise the time and uses bui
 
 The 3D modelling and rendering was done in Fusion 360.
 
-[![Time laps](https://i.ytimg.com/vi/xy8PS3BDlX0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3bSkIardENdMM8VV8cr-jlZqh4A)](https://www.youtube.com/watch?v=xy8PS3BDlX0 "Adiclock")
+[![Timelaps](https://i.ytimg.com/vi/xy8PS3BDlX0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3bSkIardENdMM8VV8cr-jlZqh4A)](https://www.youtube.com/watch?v=xy8PS3BDlX0 "Adiclock")
