@@ -31,7 +31,10 @@ const PostPage = (props: any) => {
         <article className="prose">
             <Markdown>{post.content}</Markdown>
         </article>
-        <a href="/">Retour au projets</a>
+        <div className="text-center mt-4">
+            <a className=" hover:bg-sky-900 border rounded-lg bg-sky-700 p-2 text-white" href="/">Retour aux projets</a>
+        </div>
+        
     </div>
   );
 };

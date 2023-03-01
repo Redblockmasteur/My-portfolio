@@ -13,9 +13,9 @@ export default function RootLayout({
       <div>
       <Image src="/logo.png" width={40} height={40} className="mx-auto" alt={"logo"}/>
         <Link href ="/">
-          <h1 className="text-3xl text-white">This is my header</h1>
+          <h1 className="text-3xl text-white">Bienvenue sur mon portfolio</h1>
         </Link> 
-        <p className="text-slate-300">mais c'est cool par ici</p>
+        <p className="text-slate-300 mt-1"> Étudiant en 2ème année à JUNIA Adimaker</p>
       </div>
     </header>
   )
@@ -23,7 +23,7 @@ export default function RootLayout({
   const footer = (
     <footer>
       <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400">
-        <p>Dévelopé par Antoine</p>
+        <p>Voir le code sur <a className=" hover:underline text-gray-500" href="https://github.com">GitHub</a></p>
       </div>
     </footer>
   )

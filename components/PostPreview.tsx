@@ -10,7 +10,6 @@ const PostPreview = (props: PostMetadata) => {
         <p className=" p-botom-6 text-slate-700">{props.subtitle}</p>
         <p className="text-sm text-slate-400">{props.date}</p>
     </Link>
-
   );
 };
 
