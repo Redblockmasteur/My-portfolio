@@ -34,7 +34,8 @@ const PostPage = (props: any) => {
         <div className="text-center mt-8">
             <a className=" hover:bg-sky-900 border rounded-lg bg-sky-700 p-2 text-white" href="/">Retour aux projets</a>
         </div>
-
+        <div className="aspect-w-16 aspect-h-9 hidden">
+        </div>
     </div>
   );
 };
