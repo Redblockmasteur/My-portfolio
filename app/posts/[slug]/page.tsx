@@ -24,17 +24,17 @@ const PostPage = (props: any) => {
     return (
     <div>
         <div className="my-12 text-center">
-            <h1 className="text-2xl text-slate-600 ">{post.data.title}</h1>
+            <h1 className="text-4xl text-slate-600 ">{post.data.title}</h1>
             <p className="text-slate-400 mt-2">{post.data.date}</p>
         </div>
 
         <article className="prose">
             <Markdown>{post.content}</Markdown>
         </article>
-        <div className="text-center mt-4">
+        <div className="text-center mt-8">
             <a className=" hover:bg-sky-900 border rounded-lg bg-sky-700 p-2 text-white" href="/">Retour aux projets</a>
         </div>
-        
+
     </div>
   );
 };

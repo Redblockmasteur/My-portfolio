@@ -16,4 +16,10 @@ The 3D modelling and rendering was done in Fusion 360.
 
 See the AdiClock in action
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xy8PS3BDlX0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+<div className="aspect-w-16 aspect-h-9">
+  <iframe src="https://www.youtube-nocookie.com/embed/xy8PS3BDlX0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

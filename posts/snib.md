@@ -18,6 +18,8 @@ The SNIB (Saint Nicolas Intelligent Building) is a project made up of sensor uni
 
 Render of the 3D printed housing for the sensor unit, designed and 3D printed by myself
 
-<iframe width="560" height="315" src="/images/SNIB-TurnTable.html"></iframe>
+<div className="aspect-w-16 aspect-h-9">
+  <iframe width="560" height="315" src="/images/SNIB-TurnTable.html"></iframe>
+</div>
 
 The ultimate goal of the project is to detect energy waste, such as overheating or lights accidentally left on at night. The data can also be used to measure the effectiveness of additional insulation or new policies, for example

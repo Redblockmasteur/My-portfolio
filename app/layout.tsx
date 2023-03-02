@@ -10,15 +10,15 @@ export default function RootLayout({
 }) {
 
   const header = (
+    <Link href ="/">
     <header className="text-center bg-slate-800 p-8 my-6 rounded-md">
       <div>
-      <Image src="/logo.png" width={40} height={40} className="mx-auto" alt={"logo"}/>
-        <Link href ="/">
+          <Image src="/logo.png" width={40} height={40} className="mx-auto" alt={"logo"}/>
           <h1 className="text-3xl text-white">Bienvenue sur mon portfolio</h1>
-        </Link> 
-        <p className="text-slate-300 mt-1"> Étudiant en 2ème année à JUNIA Adimaker</p>
+          <p className="text-slate-300 mt-1"> Antoine Chatelain étudiant en 2ème année à JUNIA Adimaker</p>
       </div>
     </header>
+    </Link> 
   )
  
   const footer = (
