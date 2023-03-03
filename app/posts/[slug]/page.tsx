@@ -28,7 +28,7 @@ const PostPage = (props: any) => {
             <p className="text-slate-400 mt-2">{post.data.date}</p>
         </div>
 
-        <article className="prose">
+        <article className="prose min-w-fit">
             <Markdown>{post.content}</Markdown>
         </article>
         <div className="text-center mt-8">
@@ -36,6 +36,8 @@ const PostPage = (props: any) => {
         </div>
         <div className="aspect-w-16 aspect-h-9 hidden">
         </div>
+        <div className="hidden sm:block"></div>
+        <div className="visible sm:hidden"></div>
     </div>
   );
 };
