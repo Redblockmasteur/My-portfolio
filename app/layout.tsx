@@ -14,8 +14,8 @@ export default function RootLayout({
     <header className="text-center bg-slate-800 p-8 my-6 rounded-md">
       <div>
           <Image src="/logo.png" width={40} height={40} className="mx-auto" alt={"logo"}/>
-          <h1 className="text-3xl text-white">Bienvenue sur mon portfolio</h1>
-          <p className="text-slate-300 mt-1"> Antoine Chatelain étudiant en 2ème année à JUNIA Adimaker</p>
+          <h1 className="text-3xl text-white">Antoine Chatelain</h1>
+          <p className="text-slate-300 mt-1">Étudiant en 2ème année à JUNIA Adimaker</p>
       </div>
     </header>
     </Link> 
@@ -31,14 +31,14 @@ export default function RootLayout({
 
   return (
     <html>
-      <head />
+      <head/>
       <body>
         <div className="mx-auto  max-w-2xl px-6">
-            {header}
-            {children}
-            {footer}
+          {header}
+          {children}
+          {footer}
         </div>  
-        <AnalyticsWrapper />
+        <AnalyticsWrapper/>
       </body>
     </html>
   )
