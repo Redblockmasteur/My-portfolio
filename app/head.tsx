@@ -3,7 +3,7 @@ export default function Head() {
     <>
       <title>Antoine Chatelain Portfolio</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="keywords" content="Antoine Chatelain,Chatelain,Portfolio,Adimaker,Junia,ISEN,"></meta>
+      <meta name="keywords" content="Antoine Chatelain,Chatelain,Portfolio,Adimaker,Junia,ISEN"></meta>
       <meta name="description" content="Bienvenue sur le nouveau portfolio d'Antoine Chatelain"></meta>
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>

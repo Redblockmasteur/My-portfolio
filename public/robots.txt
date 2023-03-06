@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://antoine-chatelain.vercel.app/sitemap.xml
