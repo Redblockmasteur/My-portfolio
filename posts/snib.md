@@ -5,7 +5,13 @@ subtitle: "The objective: measure the luminosity, hygrometry and temperature of 
 
 date: "2019-08-13"
 ---
-The SNIB (Saint Nicolas Intelligent Building) is a project made up of sensor units installed in different parts of the building and a server on which Grafana is running for the visualisation of the data. The sensor unit is powered by two 18650 rechargeable lithium-ion cells, the data processing is handled by a Wemos D1 mini, the unit is equipped with a temperature and hygrometry sensor as well as an ambient light sensor.
+The SNIB (Saint Nicolas Intelligent Building) is a project I did in a Saint Nicolas high school. We installed sensor units in different parts of the building to collect data and we were able to detect energy wastage, such as overheating or lights accidentally left on at night. The ultimate goal of this project is to help the building become more energy efficient and sustainable.
+
+To achieve this, the sensor units are powered by two 18650 rechargeable lithium-ion cells, with data processing handled by a Wemos D1 mini. These units are equipped with a temperature and hygrometry sensor, as well as an ambient light sensor that detects changes in temperature, humidity and light levels.
+
+![images/grafana](/images/grafana.png)
+
+In order to visualise the data collected by the sensor units, we set up a server running Grafana. This allowed us to create a dashboard to easily monitor and analyse the data. It shows real-time data and provides historical data for easy comparison and analysis.
 
 ![images/boot_animation](/images/SNIB-see-thru.png)
 
@@ -25,4 +31,6 @@ Render of the 3D printed housing for the sensor unit, designed and 3D printed by
   ![images/boot_animation](/images/SNIB-TurnTable.gif)
 </div>
 
-The ultimate goal of the project is to detect energy waste, such as overheating or lights accidentally left on at night. The data can also be used to measure the effectiveness of additional insulation or new policies, for example
+The data collected by the sensor units can be used to measure the effectiveness of additional insulation or new strategies, and can help identify areas where energy waste can be reduced. For example, if a sensor unit detects a room that is constantly overheating, this may be an indication that additional insulation is needed.
+
+Overall, the SNIB project has been a great learning experience for me. It has allowed me to develop my skills in electronics and data analysis, while also contributing to a more sustainable future.

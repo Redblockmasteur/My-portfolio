@@ -13,7 +13,7 @@ export default function RootLayout({
     <Link href ="/">
     <header className="text-center bg-slate-800 p-8 my-6 rounded-md">
       <div>
-          <Image src="/logo.png" width={40} height={40} className="mx-auto" alt={"logo"}/>
+          <Image src="/logo.png" width={40} height={40} className="mx-auto object-cover rounded-lg h-16 w-16" alt={"logo"}/>
           <h1 className="text-3xl text-white">Antoine Chatelain</h1>
           <p className="text-slate-300 mt-1">Étudiant en 2ème année à JUNIA Adimaker</p>
       </div>

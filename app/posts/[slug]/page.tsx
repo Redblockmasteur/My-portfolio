@@ -23,16 +23,16 @@ const PostPage = (props: any) => {
     const post = getPostContent(slug);
     return (
     <div>
-        <div className="my-12 text-center">
-            <h2 className="text-4xl text-slate-600 ">{post.data.title}</h2>
-            <p className="text-slate-400 mt-2">{post.data.date}</p>
+        <div className="my-10 text-center">
+            <h2 className=" text-5xl text-slate-600 ">{post.data.title}</h2>
+            <p className=" text-lg text-slate-500 mt-2">{post.data.date}</p>
         </div>
 
-        <article className="prose min-w-fit">
+        <article className="prose min-w-fit text-justify">
             <Markdown>{post.content}</Markdown>
         </article>
         <div className="text-center mt-8">
-            <a className=" hover:bg-sky-900 border rounded-lg bg-sky-700 p-2 text-white" href="/">Retour aux projets</a>
+            <a className=" hover:bg-sky-900 border rounded-lg bg-sky-700 p-2 text-white font-semibold" href="/">Retour aux projets</a>
         </div>
         <div className="aspect-w-16 aspect-h-9 hidden">
         </div>
