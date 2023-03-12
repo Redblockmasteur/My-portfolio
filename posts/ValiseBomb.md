@@ -1,7 +1,11 @@
 ---
 title: "Valise Bomb"
+
 subtitle: "An Arduino based portable escape game system"
+
 date: "2022-08-27"
+
+language: "en"
 ---
 During my time at Adimaker, a project-based foundation course at Junia, I was tasked with creating an escape game that could be transported to open house days to promote Adimaker. My team and I decided to create a portable suitcase that contains all the components needed to run a game. All we need is access to mains power to start a game.
 

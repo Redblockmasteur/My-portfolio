@@ -4,6 +4,8 @@ title: "Base de connaisance"
 subtitle: "Ma base de connaissances personnelle en électronique"
 
 date: "2023-02-16"
+
+language: "fr"
 ---
 Si vous êtes passionné d'électronique, vous savez probablement à quel point il peut être difficile de trouver des informations précises sur certains composants. Parfois, la documentation n'existe pas ou n'est pas suffisante pour faire fonctionner notre dernier capteur.
 

@@ -4,6 +4,9 @@ title: "SNIB"
 subtitle: "The objective: measure the luminosity, hygrometry and temperature of the rooms and transmitting the data on a server for decision-making."
 
 date: "2019-08-13"
+
+language: "en"
+
 ---
 The SNIB (Saint Nicolas Intelligent Building) is a project I did in a Saint Nicolas high school. We installed sensor units in different parts of the building to collect data and we were able to detect energy wastage, such as overheating or lights accidentally left on at night. The ultimate goal of this project is to help the building become more energy efficient and sustainable.
 

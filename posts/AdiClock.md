@@ -2,6 +2,7 @@
 title: "AdiClock 🕐"
 subtitle: "The AdiClock is a simple 7 segments style mechanical clock. It automatically check the internet for the current time."
 date: "2021-06-02"
+language: "en"
 ---
 The AdiClock is a project that I had the opportunity to work on during my time at the Adimaker. Our task was to create a clock that had the look of a 7-segment display, but with a twist: we were not allowed to use LEDs for the segments.
 
