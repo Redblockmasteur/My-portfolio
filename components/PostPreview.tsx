@@ -9,6 +9,7 @@ const PostPreview = (props: PostMetadata) => {
         <h2 className=" mt-2 text-black text-2xl hover:underline mb-4">{props.title}</h2>
         <p className=" p-botom-6 text-slate-700">{props.subtitle}</p>
         <p className="text-sm text-slate-400">{props.date}</p>
+        <p className="text-xl">{props.flagEmoji}</p>
     </Link>
   );
 };
