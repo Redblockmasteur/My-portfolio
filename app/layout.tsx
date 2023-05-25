@@ -24,7 +24,7 @@ export default function RootLayout({
   const footer = (
     <footer>
       <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400">
-        <p>Voir le code sur <a className=" hover:underline text-gray-500" href="https://github.com">GitHub</a></p>
+        <p>Voir le code sur <a className=" hover:underline text-gray-500" href="https://github.com/Redblockmasteur/My-blog">GitHub</a></p>
       </div>
     </footer>
   )

@@ -28,7 +28,7 @@ const PostPage = (props: any) => {
             <p className=" text-lg text-slate-500 mt-2">{post.data.date}</p>
             <p>{post.data.flagEmoji}</p>
         </div>
-
+        
         <article className="prose min-w-fit text-justify">
             <Markdown>{post.content}</Markdown>
         </article>

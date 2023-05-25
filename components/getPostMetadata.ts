@@ -1,5 +1,6 @@
-const FR_FLAG_EMOJI = '\u{1F1EB}\u{1F1F7}'; // Code Unicode pour le drapeau de la France
-const UK_FLAG_EMOJI = '\u{1F1EC}\u{1F1E7}'; // Code Unicode pour l'Union Jack
+const FR_FLAG_EMOJI = '\uD83C\uDDEB\uD83C\uDDF7'; // Code d'échappement pour le drapeau de la France
+const UK_FLAG_EMOJI = '\uD83C\uDDEC\uD83C\uDDE7'; // Code d'échappement pour l'Union Jack
+
 
 
 import fs from 'fs';
