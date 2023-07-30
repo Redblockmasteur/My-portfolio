@@ -11,7 +11,7 @@ Si vous êtes passionné d'électronique, vous savez probablement à quel point 
 
 J'ai commencé ma base de connaissances en parallèle de mes études pour consigner mon apprentissage en électronique et pour avoir une référence facilement accessible lorsque je travaille sur des projets. En tant que passionné d'électronique, j'aime expérimenter avec de nouveaux composants qui sont souvent mal documentés. Ma base de connaissances est donc un moyen pour moi de garder une trace, afin de ne pas oublier.
 
-Ma base de connaissances est ouverte à la consultation pour tous [ici](https://antoine-chatelain.notion.site/Arduino-3f8af3eb07924b4389eef65e029188a7), ce qui signifie que toute personne peut y accéder et trouver des informations utiles sur les composants électroniques et laisser des commentaires.
+Ma base de connaissances est ouverte à la consultation pour tous 👉 [ici](https://antoine-chatelain.notion.site/Arduino-3f8af3eb07924b4389eef65e029188a7), ce qui signifie que toute personne peut y accéder et trouver des informations utiles sur les composants électroniques et laisser des commentaires.
 
 ![images/pwm_animation](/images/pwm.gif)
 

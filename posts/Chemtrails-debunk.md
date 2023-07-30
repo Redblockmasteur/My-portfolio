@@ -16,4 +16,4 @@ The site was built using the Tailwind CSS framework, which made the process of b
 
 ![images/site_scree_capture](/images/Chemtrails-debunk-screen-capture.png)
 
-The Chemtrails Debunk website is hosted on Netlify servers, ensuring fast loading times and reliable performance. The site is accessible to everyone [here](https://chemtrail-debunk.netlify.app/) and the code is hosted on my [GitHub](https://github.com/Redblockmasteur/chemtrail_debunk).
+The Chemtrails Debunk website is hosted on Netlify servers, ensuring fast loading times and reliable performance. The site is accessible to everyone 👉 [here](https://chemtrail-debunk.netlify.app/) and the code is hosted on my [GitHub](https://github.com/Redblockmasteur/chemtrail_debunk).
