@@ -25,7 +25,7 @@ In the Rose and Heritage Garden, I had the privilege of learning about rose care
 
 In the English Walled Garden, I undertook an intensive crash course in plant recognition by labeling various plants – a real game of hide and seek!
 
-I'm also grateful for the unique opportunities offered during my volunteer stint, such as witnessing the live broadcast of 'Botanic Backyard', a show offering tips and tricks to homeowners on WGN. I was also fascinated by the computer-controlled nursery facility tour where I witnessed the staggering degree of automation controlling the temperature, humidity, and luminosity within the greenhouse.
+**I**'m also grateful for the unique opportunities I've had while volunteering, such as being part of the live broadcast of 'Botanic Backyard', a show offering tips and tricks to homeowners on WGN9. I was also fascinated by the computer-controlled nursery facility tour where I witnessed the staggering degree of automation controlling the temperature, humidity, and luminosity within the greenhouse.
 ![images/greenhouse](/images/greenhouse.jpeg)
 Though I had previous beekeeping experience, capturing a swarm of bees in the wild was undoubtedly a first.
 
