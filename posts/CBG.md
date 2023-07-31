@@ -10,11 +10,11 @@ date: "2023-07-30"
 
 language: "en"
 ---
-In a delightful twist of fate that connected my heritage with my future, I spent the summer of 2023 not among the hum of servers and screens, but within the vibrant and peaceful expanse of the Chicago Botanic Garden. I am computer science student, an aspiring tech enthusiast, and come from a family with deep roots in farming and nursery operations. So when the opportunity to volunteer at one of the largest botanical gardens in the United States presented itself, I couldn't miss it. The idea of reconnecting with my agricultural heritage while simultaneously exploring the potential of technology in this field seemed too compelling to pass.
+In a delightful twist of fate that connected my heritage with my future, I spent the summer of 2023 not among the hum of servers and screens, but within the vibrant and peaceful expanse of the Chicago Botanic Garden. I am a computer science student, an aspiring tech enthusiast, and come from a family with deep roots in farming and nursery operations. So when the opportunity to volunteer at one of the largest botanical gardens in the United States presented itself, I couldn't miss it. The idea of reconnecting with my agricultural heritage while simultaneously exploring the potential of technology in this field seemed too compelling to pass.
 
 ### My Journey Across Gardens
 
-My volunteer work began at the Japanese Garden where I honed my skills in caring for cloud pines through the techniques of candling and pinecone removal. I also delved into the delicate process of moss garden maintenance.
+My volunteer work began at the Japanese Garden where I honed my skills in caring for cloud pines through the techniques of candling and pine cone removal. I also delved into the delicate process of moss garden maintenance.
 
 My journey then led me to Evening Island, my first exposure to lakeshore management, where I worked to control the marsh spurge population by removing seed heads.
 
