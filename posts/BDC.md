@@ -1,7 +1,7 @@
 ---
 title: "Base de connaisance"
 
-subtitle: "Ma base de connaissances personnelle en électronique"
+subtitle: "Ma base de connaissances personnelle en électronique."
 
 date: "2023-02-16"
 

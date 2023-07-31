@@ -2,7 +2,7 @@
 title: "Bridging The Gap: My Summer at the Chicago Botanic Garden"
 
 
-subtitle: "From Silicon Chips to Garden Clippers: An Exploration of Tech in Horticulture"
+subtitle: "From Silicon Chips to Garden Clippers: My Exploration in Horticulture."
 
 
 date: "2023-07-30"

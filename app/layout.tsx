@@ -11,7 +11,7 @@ export default function RootLayout({
 
   const header = (
     <Link href ="/">
-    <header className="text-center bg-slate-800 p-8 my-6 rounded-md">
+    <header className="text-center bg-slate-800 p-8 my-6 rounded-xl">
       <div>
           <Image src="/logo.png" width={40} height={40} className="mx-auto object-cover rounded-lg h-16 w-16" alt={"logo"}/>
           <h1 className="text-3xl text-white">Antoine Chatelain</h1>
@@ -33,7 +33,7 @@ export default function RootLayout({
     <html lang="fr">
       <head/>
       <body>
-        <div className="mx-auto  max-w-2xl px-6">
+        <div className="mx-auto max-w-3xl px-6">
           {header}
           {children}
           {footer}

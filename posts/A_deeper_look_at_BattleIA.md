@@ -1,7 +1,7 @@
 ---
 title: "BattleIA: Behind the Code"
 
-subtitle: "Exploring the Software Arsenal of Our Battle Bot"
+subtitle: "Exploring the Software Arsenal of Our Battle Bot."
 
 date: "2023-06-10"
 

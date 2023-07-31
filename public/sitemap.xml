@@ -1,49 +1,72 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-	<loc>https://antoine-chatelain.vercel.app/</loc>
-	<lastmod>2023-03-10T10:33:43+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://antoine-chatelain.vercel.app/</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>https://antoine-chatelain.vercel.app/contact</loc>
-	<lastmod>2023-03-10T10:33:43+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://antoine-chatelain.vercel.app/contact</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://antoine-chatelain.vercel.app/posts/BattleIA</loc>
-	<lastmod>2023-05-24T10:33:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://antoine-chatelain.vercel.app/posts/CBG</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://antoine-chatelain.vercel.app/posts/BDC</loc>
-	<lastmod>2023-03-10T10:33:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://antoine-chatelain.vercel.app/posts/A_deeper_look_at_BattleIA</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://antoine-chatelain.vercel.app/posts/Chemtrails-debunk</loc>
-	<lastmod>2023-03-10T10:33:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://antoine-chatelain.vercel.app/posts/BattleIA</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://antoine-chatelain.vercel.app/posts/ValiseBomb</loc>
-	<lastmod>2023-03-10T10:33:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://antoine-chatelain.vercel.app/posts/BDC</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://antoine-chatelain.vercel.app/posts/AdiClock</loc>
-	<lastmod>2023-03-10T10:33:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://antoine-chatelain.vercel.app/posts/Chemtrails-debunk</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://antoine-chatelain.vercel.app/posts/snib</loc>
-	<lastmod>2023-03-10T10:33:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://antoine-chatelain.vercel.app/posts/ValiseBomb</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://antoine-chatelain.vercel.app/posts/UP4Green</loc>
-	<lastmod>2023-03-10T10:33:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://antoine-chatelain.vercel.app/posts/AdiClock</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://antoine-chatelain.vercel.app/posts/snib</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoine-chatelain.vercel.app/posts/UP4Green</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoine-chatelain.vercel.app/images/SNIB-TurnTable.html</loc>
+  <lastmod>2023-07-31T14:32:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>

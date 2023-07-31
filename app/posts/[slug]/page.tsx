@@ -29,7 +29,7 @@ const PostPage = (props: any) => {
             <p>{post.data.flagEmoji}</p>
         </div>
         
-        <article className="prose min-w-fit text-justify">
+        <article className="prose min-w-fit text-justify text-lg">
             <Markdown>{post.content}</Markdown>
         </article>
         <div className="text-center mt-8">
