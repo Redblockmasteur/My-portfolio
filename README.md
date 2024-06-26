@@ -1,6 +1,6 @@
 # **W**elcome to **the github for my portfolio**
 
-This repository contains the code for my personal portfolio, which is hosted on [Vercel](https://vercel.com/). The site is accessible at this address: [antoine-chatelain.vercel.app](https://antoine-chatelain.vercel.app)
+This repository contains the code for my personal portfolio, which is hosted on [Vercel](https://vercel.com/). The site is accessible at this address: [chatelain.dev](https://www.chatelain.dev/)
 
 Please note that while the interface is primarily in French, the articles are mainly written in English.
 
