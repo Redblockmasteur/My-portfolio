@@ -1,5 +1,7 @@
 
-const contact = (pops: any) => {
+import type { NextPage } from 'next';
+
+const ContactPage: NextPage = () => {
     return (
     <div>
         <p className=" text-justify text-lg">Si vous souhaitez me contacter pour une demande professionnelle ou personnelle, n'hésitez pas à m'envoyer un <a href="mailto:antoine.chatelain@student.junia.com" className="underline text-sky-700 hover:text-sky-500"> e-mail</a>. <br /> Vous pouvez également me trouver sur <a href="https://www.linkedin.com/in/chatelain-antoine/" className=" underline text-sky-700 hover:text-sky-500">LinkedIn</a>.</p>
@@ -10,4 +12,6 @@ const contact = (pops: any) => {
     </div>
   );
 };
-export default contact;
+
+export default ContactPage;
+main
