@@ -1,6 +1,7 @@
 import fs from "fs";
 import Markdown from "markdown-to-jsx";
 import matter from "gray-matter";
+import React from "react";
 import getPostMetadata from "../../../components/getPostMetadata";
 
 const getPostContent = (slug: string) => {
@@ -14,12 +15,12 @@ const getPostContent = (slug: string) => {
 export const generateStaticParams = async () => {
     const posts = getPostMetadata();
     return posts.map((post) => ({
-        slug: post.slug,
+        params: { slug: post.slug }
     }));
 };
 
-const PostPage = (props: { params: { slug: string } }) => {
-    const slug = props.params.slug;
+const PostPage = (props: { params: Promise<{ slug: string }> }) => {
+    const slug = React.use(props.params).slug;
     const post = getPostContent(slug);
     return (
     <div>
