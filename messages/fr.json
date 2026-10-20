@@ -1,0 +1,30 @@
+{
+  "header": {
+    "subtitle": "Étudiant en 3ème année à JUNIA ISEN"
+  },
+  "home": {
+    "welcome": "👋 Bienvenue sur mon portfolio.",
+    "intro": "Ancien Adimaker, en 3ème année du cycle ingénieur à l'ISEN Lille.",
+    "intro2": "Adimaker étant une classe préparatoire basée sur l'apprentissage par projet, je présente ci-dessous certains des projets que j'ai réalisés dans le cadre de ma formation ou pendant mon temps libre.",
+    "cta": "Mon profil vous intéresse ? N'hésitez pas à me",
+    "ctaLink": "contacter",
+    "ctaEnd": "."
+  },
+  "contact": {
+    "intro": "Si vous souhaitez me contacter pour une demande professionnelle ou personnelle, n'hésitez pas à m'envoyer un",
+    "email": "e-mail",
+    "linkedinIntro": "Vous pouvez également me trouver sur",
+    "outro": "N'hésitez pas à m'ajouter sur LinkedIn si vous souhaitez discuter de mes projets ou de mes expériences professionnelles. Je ferai de mon mieux pour répondre à votre message dans les plus brefs délais. Je vous remercie de l'intérêt que vous portez à mon travail."
+  },
+  "post": {
+    "backToProjects": "Retour aux projets",
+    "backToHome": "Retour vers l'accueil"
+  },
+  "footer": {
+    "seeCode": "Voir le code sur"
+  },
+  "Metadata": {
+    "title": "Antoine Chatelain — Portfolio",
+    "description": "Bienvenue sur le portfolio d'Antoine Chatelain, étudiant à JUNIA ISEN Lille. Vous trouverez sur mon site une sélection de mes projets."
+  }
+}
