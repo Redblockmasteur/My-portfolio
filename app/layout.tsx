@@ -1,4 +1,4 @@
-import Link from "next/link"; 
+import Link from "next/link";
 import "../styles/globals.css";
 import Image from "next/image";
 import { AnalyticsWrapper } from './components/analytics';
@@ -18,20 +18,20 @@ export default function RootLayout({
           <p className="text-slate-300 mt-1">Étudiant en 3ème année à JUNIA ISEN</p>
       </div>
     </header>
-    </Link> 
+    </Link>
   )
- 
+
   const footer = (
     <footer>
       <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400 flex justify-around items-center">
-        <p className="mr-2">Voir le code sur <a className="hover:underline text-gray-500" href="https://github.com/Redblockmasteur/My-blog">GitHub</a></p>
+        <p className="mr-2">Voir le code sur <a className="hover:underline text-gray-500" href="https://github.com/Redblockmasteur/My-portfolio">GitHub</a></p>
         <a href="https://bff.ecoindex.fr/redirect/?url=https://antoine-chatelain.vercel.app/">
+          {/* eslint-disable-next-line @next/next/no-img-element -- external badge, cannot use next/image */}
           <img src="https://bff.ecoindex.fr/badge/?theme=dark&url=https://antoine-chatelain.vercel.app/" alt="EcoIndex Badge" />
         </a>
       </div>
     </footer>
   );
-  
 
   return (
     <html lang="fr">
@@ -41,7 +41,7 @@ export default function RootLayout({
           {header}
           {children}
           {footer}
-        </div>  
+        </div>
         <AnalyticsWrapper/>
       </body>
     </html>

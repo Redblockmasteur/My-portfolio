@@ -1,7 +1,7 @@
 import fs from "fs";
+import Link from "next/link";
 import Markdown from "markdown-to-jsx";
 import matter from "gray-matter";
-import React from "react";
 import getPostMetadata from "../../../components/getPostMetadata";
 
 const getPostContent = (slug: string) => {
@@ -19,8 +19,8 @@ export const generateStaticParams = async () => {
     }));
 };
 
-const PostPage = (props: { params: Promise<{ slug: string }> }) => {
-    const slug = React.use(props.params).slug;
+const PostPage = async (props: { params: Promise<{ slug: string }> }) => {
+    const { slug } = await props.params;
     const post = getPostContent(slug);
     return (
     <div>
@@ -29,17 +29,13 @@ const PostPage = (props: { params: Promise<{ slug: string }> }) => {
             <p className=" text-lg text-slate-500 mt-2">{post.data.date}</p>
             <p>{post.data.flagEmoji}</p>
         </div>
-        
+
         <article className="prose min-w-fit text-justify text-lg">
             <Markdown>{post.content}</Markdown>
         </article>
         <div className="text-center mt-8">
-            <a className=" hover:bg-sky-900 border rounded-lg bg-sky-700 p-2 text-white font-semibold" href="/">Retour aux projets</a>
+            <Link className=" hover:bg-sky-900 border rounded-lg bg-sky-700 p-2 text-white font-semibold" href="/">Retour aux projets</Link>
         </div>
-        <div className="aspect-w-16 aspect-h-9 hidden">
-        </div>
-        <div className="hidden sm:block"></div>
-        <div className="visible sm:hidden"></div>
     </div>
   );
 };

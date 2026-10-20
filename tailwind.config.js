@@ -1,5 +1,8 @@
+import typography from '@tailwindcss/typography';
+import aspectRatio from '@tailwindcss/aspect-ratio';
+
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+const config = {
   content: [
     "./app/**/*.{js,ts,jsx,tsx}",
     "./components/**/*.{js,ts,jsx,tsx}",
@@ -7,9 +10,11 @@ module.exports = {
   ],
   theme: {
     extend: {},
-  }, 
+  },
   plugins: [
-    require('@tailwindcss/typography'),
-    require('@tailwindcss/aspect-ratio'),
+    typography,
+    aspectRatio,
   ],
-}
+};
+
+export default config;
